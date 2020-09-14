@@ -2,7 +2,7 @@
 
 My name is Dennis Kennedy and I'm a student at DCCC, here you can find a list of all my current projects being worked on.
 
-![image]
+![dRPW8q.jpg]
 
 List of portfolio projects:
 
